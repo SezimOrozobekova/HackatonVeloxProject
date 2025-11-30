@@ -1,0 +1,23 @@
+### Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+### Django
+*.log
+staticfiles/
+media/
+
+### System
+.DS_Store
+
+### Android build
+Velox/frontend/.gradle/
+Velox/frontend/build/
+Velox/frontend/app/build/
+
+### IDE stuff
+.idea/
+*.iml
